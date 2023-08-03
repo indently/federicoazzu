@@ -1,4 +1,4 @@
-<h2 margin-bottom: 5px;">Hello, world!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h2>
+<h1 margin-bottom: 5px;">Hello, world!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 
 ```python
 # I love programming in Python
